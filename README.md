@@ -1,7 +1,7 @@
 # personal_website
 Personal Portfolio 
 
-##Inclludes
+##Includes
 ####About Me
 ####Recent Projects
 ####Education
