@@ -1,2 +1,7 @@
 # personal_website
-personal website
+Personal Portfolio 
+
+##Inclludes
+About Me
+Recent Projects
+Education
