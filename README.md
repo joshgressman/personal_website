@@ -2,6 +2,6 @@
 Personal Portfolio 
 
 ##Inclludes
-About Me
-Recent Projects
-Education
+####About Me
+####Recent Projects
+####Education
