@@ -2,6 +2,7 @@ body, html {
     height: 100%;
     width: 100%;
     color: white;
+
 }
 
 
@@ -9,7 +10,7 @@ body, html {
   margin: 0 auto 0 auto;
   padding: 10px 0 0 10px;
   width: 100%;
-  height: 600px;
+  height: 400px;
   background-color: rgba(0,0,0,0.8);
   color: rgba(71,162,198,0.9);
 
@@ -17,9 +18,9 @@ body, html {
 
 #about{
   margin: 0 auto 0 auto;
-  padding: 10px 0 0 10px;
+  padding: 10px 0 0 20px;
   width: 100%;
-  height: 600px;
+  height: 440px;
   background-color: rgba(250,250,250,0.8);
   color: rgba(71,162,198,0.9);
 }
@@ -28,7 +29,7 @@ body, html {
   margin: 0 auto 0 auto;
   padding: 10px 0 0 10px;
   width: 100%;
-  height: 600px;
+  height: 440px;
   background-color: rgba(0,0,0,0.8);
   color:rgba(71,162,198,0.9);
 }
@@ -37,19 +38,10 @@ body, html {
   margin: 0 auto 0 auto;
   padding: 10px 0 0 10px;
   width: 100%;
-  height: 600px;
+  height: 440px;
   background-color: rgba(250,250,250,0.8);
   color: rgba(71,162,198,0.9);
 }
-
-/*.pic{
-  background-color: white;
-  width: 200px;
-  height: 200px;
-  border-radius: 100px;
-  float: right;
-  margin: 0 20px 0 0;
-}*/
 
 .nav ul {
   list-style: none;
@@ -69,4 +61,39 @@ body, html {
 .hello{
   font-size: 3.0em;
 
+}
+
+
+
+#bio{
+  color: rgba(0,0,0,0.8);
+  width: 500px;
+  float: left;
+}
+
+#bioPic{
+  float:right;
+  margin: 0 40px 0 0;
+}
+
+#jgpic {
+  margin:-20px 40px 0 0;
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+}
+
+.text {
+  font-size: 20px;
+}
+
+#gymsMe {
+  flaot-left;
+}
+
+#gympic {
+  margin: 0 20px 0 30px;
+  float:left;
+  height: 280px;
+  width: 340px;
 }
